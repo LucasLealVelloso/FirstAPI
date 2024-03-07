@@ -1,8 +1,8 @@
-cd backend 
-python -m venv env 
-env/Scripts/activate 
-(env)pip install -r requirements.txt 
-(env)python main.py
+⭕ cd backend 
+⭕ python -m venv env 
+⭕ env/Scripts/activate 
+⭕ (env)pip install -r requirements.txt 
+⭕ (env)python main.py
 
 http://localhost:8000/
 
