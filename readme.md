@@ -10,7 +10,7 @@ cd frontend npm install npm run start ir para http://localhost:3000
 
 docker compose up -d
 
-default
+##default
 engine = create_engine("postgresql://scott:tiger@localhost/mydatabase")
 
 psycopg2
